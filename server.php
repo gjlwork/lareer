@@ -2,7 +2,7 @@
 
 /**
  * Laravel - A PHP Framework For Web Artisans
- ****JNH
+ *
  * @packag mvj mne  Laravel
  * @author   Taylor Otwell <taylorotwell@gmail.com>
  */
@@ -19,3 +19,5 @@ if ($uri !== '/' && file_exists(__DIR__.'/public'.$uri)) {
 }
 
 require_once __DIR__.'/public/index.php';
+
+//iiiii
